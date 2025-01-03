@@ -1,3 +1,7 @@
 My to-do list
 1. Create a README.md on GitHub
 2. Read the news, but ignore what they say
+
+This part is after the first commit
+3. Getting around GitHub, building muscle memory
+4. Cook lunch, before teatime
