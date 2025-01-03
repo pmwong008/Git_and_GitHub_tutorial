@@ -5,3 +5,7 @@ My to-do list
 This part is after the first commit
 3. Getting around GitHub, building muscle memory
 4. Cook lunch, before teatime
+
+This part is created after switching to a new branch
+5. Still getting around
+6. Getting to know what version control is all about
