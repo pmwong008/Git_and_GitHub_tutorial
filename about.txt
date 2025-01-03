@@ -1,0 +1,3 @@
+This is all about:
+1. Practicing the use of Git add
+2. Using nano editor and be familiar with it
